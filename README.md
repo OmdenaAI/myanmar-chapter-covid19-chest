@@ -1,6 +1,6 @@
 # Myammar Covid Detection from Chest Images using Deep Learning
 
-#Project background
+# Project background
 
 In recent years, the world has witnessed the devastating impact of the COVID-19 pandemic, which has caused significant loss of life and economic disruptions across nations. As one of the most effective tools for identifying COVID-19, chest X-rays have played a crucial role in diagnosing and monitoring the progression of the disease. However, the manual interpretation of these images by healthcare professionals can be time-consuming and subjective, often leading to delays in diagnosis and potential errors.
 
