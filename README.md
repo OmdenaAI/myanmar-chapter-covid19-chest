@@ -8,6 +8,7 @@ In addition to COVID-19, there are numerous other respiratory and chest-related 
 
 To address these critical issues, the Omdena Myanmar Chapter has initiated the “Identifying Diseases in Chest X-Rays & COVID-19 Detection” project. The goal is to leverage deep learning techniques to develop an automated system capable of accurately detecting COVID-19 and various chest-related diseases from radiographic images. By harnessing the power of artificial intelligence and computer vision, this project aims to revolutionize the diagnostic process and facilitate early intervention, ultimately saving lives and improving healthcare outcomes.
 
+# The Problem
 
 ## Contribution Guidelines
 - Have a Look at the [project structure](#project-structure) and [folder overview](#folder-overview) below to understand where to store/upload your contribution
