@@ -1,4 +1,4 @@
-# Myammar Covid Detection from Chest Images using Deep Learning
+# Covid Detection from Chest Images using Deep Learning
 
 # Project background
 
