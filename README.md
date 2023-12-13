@@ -10,6 +10,14 @@ To address these critical issues, the Omdena Myanmar Chapter has initiated the â
 
 # The Problem
 
+The problem we aim to solve through this project is two-fold. Firstly, the lack of accessible and reliable diagnostic tools for chest diseases, including COVID-19, hampers timely detection and intervention, which can lead to the rapid spread of the disease and its associated complications. Secondly, the scarcity of specialized healthcare professionals, particularly radiologists, in many parts of Myanmar, exacerbates the problem by limiting the availability of accurate and prompt diagnoses.
+
+Our local community faces the burden of inadequate healthcare infrastructure and limited resources, which further amplifies the impact of these challenges. Early detection of COVID-19 and other chest diseases is crucial for effective treatment and preventing the spread of the virus. By deploying an AI-powered solution capable of accurately analyzing chest X-rays and identifying diseases, we can make a significant positive impact on the healthcare landscape of Myanmar, Asian countries, and people around the world.
+
+The deep learning model we develop will enable healthcare providers, including general practitioners and healthcare workers in remote areas, to quickly identify diseases in chest X-rays. By reducing the dependence on scarce human resources and improving the efficiency of diagnoses, our solution will enhance the overall quality of healthcare services. Moreover, the availability of a reliable and accessible diagnostic tool will empower medical professionals to make informed decisions and provide timely treatments, potentially saving lives and mitigating the spread of diseases within the community. **The productivity of our product will increase as much as the support we receive**, as our model is greatly dependent on the support of data.
+
+Through the development of a web app or mobile app, we aim to make this solution widely accessible beyond our local community, reaching healthcare providers globally. By democratizing access to advanced diagnostic capabilities, we strive to contribute to the global fight against COVID-19 and other chest diseases, fostering a healthier future for individuals worldwide.
+
 ## Contribution Guidelines
 - Have a Look at the [project structure](#project-structure) and [folder overview](#folder-overview) below to understand where to store/upload your contribution
 - If you're creating a task, Go to the task folder and create a new folder with the below naming convention and add a README.md with task details and goals to help other contributors understand
