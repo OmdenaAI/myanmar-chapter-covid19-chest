@@ -18,6 +18,8 @@ The deep learning model we develop will enable healthcare providers, including g
 
 Through the development of a web app or mobile app, we aim to make this solution widely accessible beyond our local community, reaching healthcare providers globally. By democratizing access to advanced diagnostic capabilities, we strive to contribute to the global fight against COVID-19 and other chest diseases, fostering a healthier future for individuals worldwide.
 
+
+
 ## Contribution Guidelines
 - Have a Look at the [project structure](#project-structure) and [folder overview](#folder-overview) below to understand where to store/upload your contribution
 - If you're creating a task, Go to the task folder and create a new folder with the below naming convention and add a README.md with task details and goals to help other contributors understand
@@ -67,5 +69,4 @@ Through the development of a web app or mobile app, we aim to make this solution
   - Update the [task-table](./src/tasks/README.md#task-table) whenever a task is created and explain the purpose and goals of the task to others.
 - Visualization     - Folder to store dashboards, analysis and visualization reports
 - Results           - Folder to store final analysis modelling results for the project.
-
 
