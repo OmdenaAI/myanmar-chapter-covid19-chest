@@ -31,4 +31,3 @@ if upload is not None:
   else:
     c2.write('COVID Detected')
 
-
